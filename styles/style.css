@@ -17,3 +17,12 @@ input[type="number"]:focus {
   flex-direction: column;
   margin: 0 auto;
 }
+.calculator{
+  background: rgb(1, 14, 34);
+  height: 750px;
+  width: 400px;
+  border: 2px solid rgb(1, 14, 34);;
+  border-radius: 15px;
+  margin-top: 200px;
+  box-shadow: 0 0 10px rgb(1, 14, 34); ;
+}
